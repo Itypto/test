@@ -1,0 +1,24 @@
+{
+  "news_feed": [
+    {
+      "id": 102,
+      "title": "New Season Launch",
+      "author": "OGFN_Team",
+      "date": "2026-02-21",
+      "content": "The new season is finally here with updated map and fresh loot!",
+      "image_url": "https://ogfn.org/assets/season-launch.jpg",
+      "frontmode": true,
+      "tags": ["Update", "Season X"]
+    },
+    {
+      "id": 101,
+      "title": "Play Nextieria on the go",
+      "author": "Nextieria_Team",
+      "date": "2026-01-10",
+      "content": "Nextiera supports all platfroms play it anywhere u want.",
+      "image_url": "https://ogfn.org/assets/maint.png",
+      "frontmode": false,
+      "tags": ["Alert"]
+    }
+  ]
+}
