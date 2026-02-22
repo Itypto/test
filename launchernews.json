@@ -17,7 +17,7 @@
       "date": "2026-01-10",
       "content": "Nextiera supports all platfroms play it anywhere u want.",
       "image_url": "https://ogfn.org/assets/maint.png",
-      "frontmode": false,
+      "frontmode": true,
       "tags": ["Alert"]
     }
   ]
