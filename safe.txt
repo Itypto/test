@@ -30,3 +30,4 @@ C:\WINDOWS\System32\GDI32.dll
 C:\WINDOWS\System32\gdi32full.dll
 C:\WINDOWS\System32\ole32.dll
 C:\WINDOWS\System32\shcore.dll
+C:\WINDOWS\System32\sdk_legacy_led_x64.dll
